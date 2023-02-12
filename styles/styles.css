@@ -269,6 +269,7 @@ section {
 }
 .about-container .left-about {
   padding-right: 5rem;
+  text-align: justify;
 }
 .about-container .left-about p {
   line-height: 2rem;
@@ -322,20 +323,32 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
   width: 85%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 75%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .smm {
+  width: 90%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 65%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .video {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .ledgen {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .graphic {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .RealEstate {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .copy {
+  width: 85%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .office {
   width: 95%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .editing {
-  width: 85%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .data {
+  width: 90%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 50%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .email {
+  width: 90%;
 }
 
 .stat-title {
@@ -937,4 +950,6 @@ section {
   .main-title h2 .bg-text {
     font-size: 4rem;
   }
+
+  
 }/*# sourceMappingURL=styles.css.map */
